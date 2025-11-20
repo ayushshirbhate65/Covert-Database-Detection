@@ -1,4 +1,3 @@
-
 🕵️‍♂️ Covert Database Detection & Hiding Tool
 An advanced desktop GUI application built using Python and Tkinter for detecting, hiding, and recovering covert databases using multiple cybersecurity and steganographic techniques.
 
